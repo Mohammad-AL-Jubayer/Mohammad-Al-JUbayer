@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al Jubayer</h1>
 <h3 align="center">A passionate HTML and CSS website designer ,currently learning Data Structure & Algorithms(DSA) with C/C++ to make my PYTHON & C++ journey easier.</h3>
-
+<img align="right" width="400" alt="working" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-jubayer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-al-jubayer" /> </p>
-
 - 🔭 I’m currently working on my website **InfoThatUNeed.com**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms(DSA) with C/C++ to make my PYTHON & C++ journey easier.**
